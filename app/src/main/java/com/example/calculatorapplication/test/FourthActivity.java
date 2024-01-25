@@ -9,5 +9,7 @@ public class FourthActivity {
         this.numb = numb;
     }
 
-
+    public String getText() {
+        return text;
+    }
 }
