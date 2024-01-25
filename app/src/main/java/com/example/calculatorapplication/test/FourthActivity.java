@@ -8,4 +8,6 @@ public class FourthActivity {
         this.text = text;
         this.numb = numb;
     }
+
+
 }
