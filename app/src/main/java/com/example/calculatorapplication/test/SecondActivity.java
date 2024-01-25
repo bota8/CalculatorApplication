@@ -17,4 +17,5 @@ public class SecondActivity {
     ArrayList<String> arrayList = new ArrayList<>(Arrays.asList("cat", "dog", "bird"));
 
 
+
 }
